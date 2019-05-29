@@ -1,4 +1,4 @@
 cmake_minimum_required(VERSION 3.12)
-project(testprograms)
-add_executable(testprograms srm747/MostFrequentLastDigit.cpp)
+project(topcoder)
+add_executable(topcoder SRM759/test.cpp)
 ADD_DEFINITIONS(-std=c++11)
